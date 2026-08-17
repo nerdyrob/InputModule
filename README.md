@@ -1,6 +1,6 @@
 # InputModule
 
-### Simple 3.3V Breadboard Input Controls Module
+### Generic 5 Button, 1 Rotary Encoder Breadboard Input Controls Module
 
 Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other 3.3V microcontrollers.
 
@@ -21,7 +21,9 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 ![Alt text describing the image](images/Schematic.png)
 
 ## PCB
+Top
 ![Alt text describing the image](images/PcbTop.png)
+Bottom
 ![Alt text describing the image](images/PcbBottom.png)
 
 ## Prototype
