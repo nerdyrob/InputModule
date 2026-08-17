@@ -15,19 +15,19 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 * 9× Header pins
 
 ## Breadboard
-![Alt text describing the image](images/Breadboard.png)
+![Breadboard image](images/Breadboard.png)
 
 ## Schematic
-![Alt text describing the image](images/Schematic.png)
+![Schematic image](images/Schematic.png)
 
 ## PCB
-Top
-![Alt text describing the image](images/PcbTop.png)
-Bottom
-![Alt text describing the image](images/PcbBottom.png)
+### Top
+![Image of PCB top](images/PcbTop.png)
+### Bottom
+![Image of PCB bottom](images/PcbBottom.png)
 
 ## Prototype
-![Alt text describing the image](images/Irl.png)
+![Image of assembled board](images/Irl.png)
 
 ## Credit
 The circuit was based on this MiniDexed project from Kevin
