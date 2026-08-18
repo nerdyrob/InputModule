@@ -11,7 +11,7 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 * 3× 10KΩ resistor
 * 8× 10nF capacitor
 * 1× MIDI DIN connector
-* 5 × Cherry MX or other mechanical switch.
+* 5× Cherry MX or other mechanical switch.
 * 9× Header pins
 
 ## Breadboard
