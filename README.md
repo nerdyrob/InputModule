@@ -8,11 +8,11 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 * **Gerber Files:** Included in the attached `.zip` file for direct upload to PCB manufacturers (e.g., JLCPCB).
 
 ## Parts
-* 3× 10KΩ resistor
-* 8× 10nF capacitor
-* 1× MIDI DIN connector
-* 5× Cherry MX or other mechanical switch.
-* 9× Header pins
+*  3× 10KΩ resistor
+*  8× 10nF capacitor
+*  1× MIDI DIN connector
+*  5× Cherry MX or other mechanical switch.
+* 10× Header pins
 
 ## Breadboard
 ![Breadboard image](images/Breadboard.png)
